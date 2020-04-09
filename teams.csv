@@ -1,0 +1,31 @@
+place,team,abbreviation,lat,lon,city
+Toronto,Raptors,TOR,44.391,-80.53,Toronto
+Boston,Celtics,BOS,42.3584308,-71.0597732,Boston
+Philadelphia,76ers,PHI,40.252335,-76.163789,Philadelphia
+Brooklyn,Nets,BRK,41.23,-74.71,Brooklyn
+New York,Knicks,NYK,40.71455,-74.007124,New York
+Milwaukee,Bucks,MIL,43.241809,-88.906837,Milwaukee
+Indiana,Pacers,IND,39.766911,-86.149963,Indianapolis
+Chicago,Bulls,CHI,41.51,-88.79,Chicago
+Detroit,Pistons,DET,42.408871,-85.002647,Detroit
+Cleveland,Cavaliers,CLE,40.640475,-82.582569,Cleveland
+Miami,Heat,MIA,26.4889689,-81.2264393,Miami
+Orlando,Magic,ORL,28.33,-81.2,Orlando
+Washington,Wizards,WAS,38.93,-76.518999,Washington DC
+Charlotte,Hornets,CHO,36.09931,-80.817799,Charlotte
+Atlanta,Hawks,ATL,33.46,-84.25,Atlanta
+Denver,Nuggets,DEN,39.737567,-104.9847179,Denver
+Uath,Jazz,UTA,40.47,-111.58,Salt Lake city
+Oklahoma City,Thunder,OKC,35.29,-97.49,Oklahoma city
+Portland,Trail Blazers,POR,44.52186,-122.882594,Portland
+Minnesota,Timberwolves,MIN,43.979031,-94.264931,Minneapolis
+Los Angeles,Lakers,LAL,33.05349,-116.245323,Los Angeles
+Los Angeles,Clippers,LAC,34.55349,-117.245323,Los Angeles
+Sacramento,Kings,SAC,39.915291,-122.594651,Sacramento
+Phoenix,Suns,PHO,33.142,-112.0435,Phoenix
+Golden State,Warriors,GSW,37.47,-121.13,San Francisco
+Houston,Rockets,HOU,30.46,-95.23,Houston
+Dallas,Mavericks,DAL,32.7801399,-96.8004511,Dallas
+Memphis,Grizzlies,MEM,35.749681,-89.04892,Memphis
+New Orleans,Pelicans,NOP,30.1,-91.2,New Orleans
+San Antonio,Spurs,SAS,29.4241219,-98.4936282,San Antonio
