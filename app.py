@@ -1,10 +1,11 @@
 from flask import Flask, render_template, redirect, jsonify
+from flask_cors import CORS, cross_origin
 from flask_pymongo import PyMongo
 import scrape_nba
 
 #create am instance of Flask
 app = Flask(__name__)
-
+CORS(app, support_credentials=True)
 #use PyMongo to establish Mongo connection
 nba = PyMongo(app, uri="mongodb://localhost:27017/nba_db")
 
