@@ -2,7 +2,7 @@
 
 ->First, execute the app.py file
 
-->Second open your browser and go to "http://127.0.0.1:5000/"
+->Second, open your browser and go to "http://127.0.0.1:5000/"
 
 ->Next, go to "http://127.0.0.1:5000/create_nba_databaseafter". It will create a database ("nba_db") in your MongoDB. When it completed, it would show "The nba_db database has been created in your MongoDB" in your terminal.
 
